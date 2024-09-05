@@ -1,0 +1,15 @@
+.about-us {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem;
+  }
+  
+  .mission-vision {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 2rem;
+  }
+  
+  .mission, .vision {
+    flex-basis: 45%;
+  }
